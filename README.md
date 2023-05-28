@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **adonaivazquez201@gmail.com**
 
-- ⚡ Fun fact **I'm learning on my own.**
+- ⚡ My first project: https://adonaiva.github.io/Challenge_I/ 
+
+- 💻 **I'm learning on my own.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
