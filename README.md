@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [working on it](working on it)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
 - 📫 How to reach me **adonaivazquez201@gmail.com**
 
